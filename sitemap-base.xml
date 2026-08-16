@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://acervoleis.com.br/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    
+    <url>
+        <loc>https://acervoleis.com.br/sirat/</loc>
+        <lastmod>2024-02-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://acervoleis.com.br/termos-e-condicoes/</loc>
+        <lastmod>2024-02-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://acervoleis.com.br/contato/</loc>
+        <lastmod>2024-02-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://acervoleis.com.br/sample-page/</loc>
+        <lastmod>2024-02-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://acervoleis.com.br/politica-de-privacidade/</loc>
+        <lastmod>2024-02-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+
+    
+
+    
+    <url>
+        <loc>https://acervoleis.com.br/categoria/artigos/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://acervoleis.com.br/categoria/dicas/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://acervoleis.com.br/categoria/leis/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://acervoleis.com.br/categoria/noticias/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://acervoleis.com.br/categoria/uncategorized/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+
+</urlset>
